@@ -31,7 +31,7 @@
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
-            "value":""
+            "value":"6729b9ae-0ce0-4741-92a5-b701dd1751f1"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
@@ -71,7 +71,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"918777033301"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
